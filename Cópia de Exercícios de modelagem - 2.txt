@@ -23,9 +23,7 @@ Tabela estado:
 
 
 
-
-
-ALTER TABLE nome MODIFY COLUMN varchar(30) UNIQUE NOT NULL
+ALTER TABLE estado MODIFY COLUMN nome varchar(30) UNIQUE NOT NULL
 
 
 
